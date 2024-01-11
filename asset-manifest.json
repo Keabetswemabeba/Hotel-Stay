@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/hotel-stay/static/css/main.eca40f05.css",
+    "main.js": "/hotel-stay/static/js/main.80705a93.js",
+    "static/js/787.3377b723.chunk.js": "/hotel-stay/static/js/787.3377b723.chunk.js",
+    "static/media/restaurants.jpg": "/hotel-stay/static/media/restaurants.9782962d459e293d01f9.jpg",
+    "static/media/LAUNDRY.jpg": "/hotel-stay/static/media/LAUNDRY.51d8b69ebb81a46865eb.jpg",
+    "static/media/mainRoom.jpg": "/hotel-stay/static/media/mainRoom.281b587d13a35c2a8054.jpg",
+    "static/media/hotel.jpg": "/hotel-stay/static/media/hotel.34da12b9b56e568347fe.jpg",
+    "static/media/Room.jpg": "/hotel-stay/static/media/Room.426aa923d8f23687fbab.jpg",
+    "static/media/bar.jpg": "/hotel-stay/static/media/bar.82f87dd2df9dceda8665.jpg",
+    "static/media/lognHotel.jpg": "/hotel-stay/static/media/lognHotel.8acec66b91ebfdb5c158.jpg",
+    "static/media/swimmingPool.jpg": "/hotel-stay/static/media/swimmingPool.1fc39a372265df667afa.jpg",
+    "static/media/spa.jpg": "/hotel-stay/static/media/spa.004d927d39c5668ef1e1.jpg",
+    "static/media/fa-solid-900.ttf": "/hotel-stay/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/The-gym.jpg": "/hotel-stay/static/media/The-gym.258a807fec3cdb571887.jpg",
+    "static/media/fa-brands-400.ttf": "/hotel-stay/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/hotel-stay/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/hotel-stay/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/appledew.png": "/hotel-stay/static/media/appledew.4690b97fe50edcc754ba.png",
+    "static/media/fa-regular-400.ttf": "/hotel-stay/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/hotel-stay/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/hotel-stay/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/hotel-stay/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/hotel-stay/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hotel-stay/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hotel-stay/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hotel-stay/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hotel-stay/index.html",
+    "main.eca40f05.css.map": "/hotel-stay/static/css/main.eca40f05.css.map",
+    "main.80705a93.js.map": "/hotel-stay/static/js/main.80705a93.js.map",
+    "787.3377b723.chunk.js.map": "/hotel-stay/static/js/787.3377b723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca40f05.css",
+    "static/js/main.80705a93.js"
+  ]
+}
